@@ -176,7 +176,7 @@ Muhafiz-AI/
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/mubasiranwar/Muhafiz-AI.git
+git clone [https://github.com/mubasiranwar/Muhafiz-AI.git](https://github.com/mubasiranwar/Muhafiz-AI.git)
 cd Muhafiz-AI
 
 # 2. Create virtual environment
