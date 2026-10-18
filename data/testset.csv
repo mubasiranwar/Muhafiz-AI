@@ -1,0 +1,62 @@
+# DRAFT, TO BE REVIEWED BY HUMANS
+text,label,lang_style,scam_type
+"Mubarak ho! Apka Benazir Income Support Program me 25,000 rupay wazifa aya hai. Fauri rabta karein 0301-7654321 par.",likely_scam,roman_urdu,prize_aid_scam
+"Apka JazzCash khata fori band kar diya gaya hai. Re-activate karne ke liye apna PIN is number par bhejein.",likely_scam,roman_urdu,credential_theft
+"Congratulations! You won 50,000 Rs in Lucky Draw. Click here to claim your prize: http://pak-reward.xyz",likely_scam,english,prize_aid_scam
+"آپ کا حبیب بینک اکاؤنٹ غیر قانونی سرگرمی کی وجہ سے بلاک کر دیا گیا ہے۔ فوری بحالی کے لیے شناختی کارڈ اور پن درج کریں: http://hbl-verify.top",likely_scam,urdu_script,urgency_credential
+"PakPost: Your package could not be delivered due to incomplete address. Update address within 12h: http://pakpost-delivery.top",likely_scam,english,courier_phishing
+"BISP 8171: Apka 35,000 ka Imdad approved hai. Verification fee 1500 Rs Easypaisa karein is number par 0345-9876543",likely_scam,roman_urdu,advance_fee_aid
+"Alert: State Bank verification required. Send your 16 digit debit card number and CVV to prevent card deactivation.",likely_scam,english,credential_theft
+"آپ کو بے نظیر انکم سپورٹ پروگرام کی طرف سے 40,000 روپے جاری کر دیے گئے ہیں۔ حاصل کرنے کے لیے 0321-5544332 پر واٹس ایپ کریں۔",likely_scam,urdu_script,prize_aid_scam
+"Dear customer, your electricity connection will be disconnected tonight due to bill discrepancy. Call 0312-3344556 immediately.",likely_scam,english,utility_threat
+"Mubarak! Apka 25 lakh ka lottery inam nikla hai Jeeto Pakistan se. Tariq Jamil office rabta 0333-7788990.",likely_scam,roman_urdu,prize_aid_scam
+"EasyPaisa Alert: Biometric update pending. Call helpline manager 0309-8877665 or account permanently blocked.",likely_scam,roman_urdu,urgency_threat
+"Urgent: FIA has flagged your bank account for money laundering. Deposit 50,000 security fee to clear your CNIC: 0315-1122334",likely_scam,english,impersonation_threat
+"بینک الفلاح: آپ کا کارڈ سیکیورٹی وجوہات کی بنا پر بند کر دیا گیا ہے۔ بحالی کے لیے او ٹی پی 8839 فوراً درج کریں۔",likely_scam,urdu_script,credential_theft
+"SadaPay: You received Rs 15,000 refund. Claim by entering your card details on http://sadapay-refund.vip",likely_scam,english,fake_refund
+"Ramzan Relief Package: Muft rashan hasil karne ke liye apna shanakhti card number WhatsApp karein 0304-4455667.",likely_scam,roman_urdu,aid_scam
+"Your TCS courier PK-9983 is held at customs. Pay 200 Rs clearance fee now via http://tcs-tracking.click",likely_scam,english,courier_phishing
+"آپ کا احساس راشن پروگرام میں اندراج ہو گیا ہے۔ راشن حاصل کرنے کے لیے اپنا اے ٹی ایم کارڈ نمبر فراہم کریں۔",likely_scam,urdu_script,aid_scam
+"Urgent security notice: Verify your bank credentials at http://meezan-ebank.xyz to maintain continuous online access.",likely_scam,english,banking_phishing
+"Mubarak ho! Super store lucky draw me aap ne bike jeet li hai. Registration fee 2000 bhejein 0341-2233445.",likely_scam,roman_urdu,prize_scam
+"FBR Notice: Unpaid tax penalty detected. Avoid arrest by calling tax officer 0322-9988112 within 2 hours.",likely_scam,english,impersonation_threat
+"JazzCash: Apki 10,000 ki cash payment pending hai. Accept karne ke liye apna 4 digit MPIN bhejein.",likely_scam,roman_urdu,credential_theft
+"آپ کی لاٹری نمبر 9042 پر 10 لاکھ کا انعام نکلا ہے۔ حاصل کرنے کے لیے فوری رابطہ کریں۔",likely_scam,urdu_script,prize_scam
+"Your NayaPay account has been accessed from an unknown location. Send your OTP to support immediately to lock.",likely_scam,english,credential_theft
+"Last warning: SBP biometric verification fail ho chuki hai. Fauri rabta na karne par CNIC cancel ho jaye ga 0305-6677889.",likely_scam,roman_urdu,urgency_threat
+"ایزی پیسہ ہیڈ آفس: آپ کے اکاؤنٹ سے 25000 کٹوتی روکنے کے لیے اپنا پاس ورڈ شیئر کریں۔",likely_scam,urdu_script,credential_theft
+"Your OTP for Meezan Bank login is 948201. NEVER share this code with anyone, including bank staff.",likely_safe,english,bank_otp_alert
+"HBL Alert: Transaction of PKR 4,500.00 made at Carrefour on card ending 4821. If not you, call 021-111-111-425.",likely_safe,english,transaction_alert
+"آپ کا یو فون ریچارج 500 روپے کامیابی سے ہو گیا ہے۔ بقایا بیلنس 512 روپے ہے۔ شکریہ۔",likely_safe,urdu_script,telecom_confirmation
+"Assalam-o-Alaikum ammi, main ghar pohanch gaya hoon. Khana garam kar dein.",likely_safe,roman_urdu,personal_chat
+"TCS Express: Your parcel with tracking 7728190 is out for delivery with rider Ali (0300-9988776).",likely_safe,english,courier_update
+"JazzCash: You have successfully transferred PKR 2,000 to Ahmed Khan. Transaction ID: 08928192.",likely_safe,english,transfer_receipt
+"BISP 8171: Mohtarma Fatima, apki sah mahi kist 10,500 rupay jari ho chuki hai. Nazdeeki HBL Konnect se wasool karein.",likely_safe,roman_urdu,official_aid_notice
+"آپ کا سوئی گیس کا بل 3,420 روپے جمع ہو چکا ہے۔ شکریہ۔",likely_safe,urdu_script,utility_receipt
+"Daraz: Your order #489201 has been dispatched. Track your parcel on the official Daraz mobile app.",likely_safe,english,ecommerce_shipping
+"Meeting confirmed for tomorrow morning at 10:00 AM in the conference room. Please bring quarterly slides.",likely_safe,english,workplace_calendar
+"Careem: Your captain Muhammad is arriving in a white Toyota Corolla (ABC-123). Pin: 4892.",likely_safe,english,ride_hailing
+"EasyPaisa: Rs. 1,500 received from Zeeshan. Your new balance is Rs. 8,240. TID: 9948201.",likely_safe,english,payment_received
+"محترم صارف، آپ کا بجلی کا بل ادا ہو گیا ہے۔ لیسکو آپ کے تعاون کا شکریہ ادا کرتا ہے۔",likely_safe,urdu_script,utility_receipt
+"Bhai class kal 9 bajay start hogi, assignment submit karwana mat bhoolna.",likely_safe,roman_urdu,personal_chat
+"Standard Chartered: Your credit card statement for October is ready. View it securely via your online banking app.",likely_safe,english,bank_statement
+"Bank Alfalah: Your internet banking password was changed successfully. If not done by you, contact helpline 111-225-111.",likely_safe,english,security_confirmation
+"آپ کے اکاؤنٹ میں 10,000 روپے کامیابی سے منتقل کر دیے گئے ہیں۔ ٹرانزیکشن آئی ڈی: 4492019",likely_safe,urdu_script,bank_receipt
+"Foodpanda: Your order from KFC is being prepared by the restaurant. Estimated delivery time: 35 mins.",likely_safe,english,food_delivery
+"Salam, kya aap kal market ja rahe hain? Mujhe bhi kuch saman mangwana tha.",likely_safe,roman_urdu,personal_chat
+"State Life Insurance: Your policy premium of Rs. 18,000 has been received with thanks. Receipt #SL-9948.",likely_safe,english,insurance_receipt
+"آپ کی کال پیکج کی تجدید ہو گئی ہے۔ مزید معلومات کے لیے *111# ڈائل کریں۔",likely_safe,urdu_script,telecom_alert
+"UBL Digital: Use OTP 392011 to approve fund transfer. Valid 3 min. Bank staff will NEVER ask for this OTP.",likely_safe,english,bank_otp_alert
+"Hey, did you get the notes for Dr. Tariq's lecture yesterday? Please send the PDF when free.",likely_safe,english,student_chat
+"Mera phone band ho gaya tha, abhi on kiya hai. Kheriyat hai na?",likely_safe,roman_urdu,personal_chat
+"Indrive: Ride completed. Total fare: Rs. 380. Thank you for riding with us.",likely_safe,english,ride_receipt
+"Aap ka parcel deliver kar diya gaya hai. Agar nahi mila toh rabta karein 0311-2233445.",suspicious,roman_urdu,unverified_delivery
+"Urgent: Contact customer service regarding an unresolved issue with your mobile wallet account.",suspicious,english,vague_urgency
+"آپ کو ایک نیا میسج موصول ہوا ہے۔ پڑھنے کے لیے دیے گئے لنک پر کلک کریں۔",suspicious,urdu_script,vague_link
+"Congratulations on being selected for our corporate reward scheme. Reply for details.",suspicious,english,vague_prize
+"Bhai yeh link check karna zara, sachi hai kya: http://free-recharge-offer.online",suspicious,mixed,uncertain_link
+"Dear user, your SIM card registration needs re-verification at your nearest franchise within 7 days.",suspicious,english,mild_threat
+"آپ کے نمبر پر کچھ مشتبہ سرگرمی دیکھی گئی ہے۔ براہ کرم تصدیق کریں۔",suspicious,urdu_script,vague_warning
+"Limited offer: Get 100GB internet for only 50 Rs. Dial *999# or click here to activate.",suspicious,english,unrealistic_offer
+"Aapke account par 500 rupay ka bonus diya gaya hai, mazeed maloomat ke liye helpline par call karein.",suspicious,roman_urdu,vague_bonus
+"Payment of Rs. 7,800 is due for invoice #8839. Verify invoice details before payment.",suspicious,english,unsolicited_invoice
