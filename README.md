@@ -2,7 +2,7 @@
 ### A hybrid AI and rule-based scam and phishing message checker for Pakistan (Urdu, Roman Urdu and English)
 
 **🔗 Live demo:** [https://muhafiz-ai.streamlit.app/](https://muhafiz-ai.streamlit.app/)  
-**🎥 Demo video:** *Coming soon*  
+**🎥 Demo video:** (https://drive.google.com/file/d/1oFJd_A_15YRNPLZ6FmVy0alfmNBmWaBO/view?usp=sharing)
 **📦 Repository:** [https://github.com/mubasiranwar/Muhafiz-AI](https://github.com/mubasiranwar/Muhafiz-AI)  
 **🏆 Event:** NYLP Hackathon 2026  
 
