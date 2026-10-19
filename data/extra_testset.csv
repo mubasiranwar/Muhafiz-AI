@@ -1,0 +1,22 @@
+# DRAFT, TO BE REVIEWED BY HUMANS
+text,label,lang_style,scam_type
+"Mubarak ho! Apko lucky draw mein 1 lakh rupay jeetnay ka moka mila hai. Abhi apna CNIC number 0333-9988776 par WhatsApp karein.",likely_scam,roman_urdu,prize_scam
+"آپ کا EasyPaisa اکاؤنٹ 24 گھنٹوں میں بند ہو جائے گا۔ فوری طور پر اپنا پاس ورڈ اور پن کوڈ اس نمبر پر بھیجیں: 0312-4455667",likely_scam,urdu_script,credential_theft
+"Urgent: Your HBL debit card has been blocked due to suspicious activity. Send your 16-digit card number and CVV to reactivate: http://hbl-card-verify.top",likely_scam,english,banking_phishing
+"BISP 8171 Mubarak: Apki 50,000 rupay ki imdad nikli hai. Fauri fee 1000 rupay Easypaisa karein 0300-5566778 par inam lene se pehle.",likely_scam,roman_urdu,advance_fee_aid
+"آپ کے احساس پروگرام میں 30,000 روپے منظور ہو گئے ہیں۔ وصول کرنے کے لیے اپنا ATM کارڈ نمبر اور پن 0344-2233445 پر بھیجیں۔",likely_scam,urdu_script,advance_fee_aid
+"Leopards Courier: Your parcel PK-44821 is held at customs. Pay Rs 350 clearance now: http://leopards-track.xyz/pay",likely_scam,english,courier_phishing
+"Bhai tune Jazzcash per 5000 receive kiye hain, is link per click karke confirm karo: http://tinyurl.com/jcash-confirm",likely_scam,mixed,fake_payment_link
+"SBP Security Alert: Your account shows unrecognized login. Verify identity immediately by sending OTP to our agent at 0315-7788990.",likely_scam,english,credential_theft
+"آپ کو FBR کی طرف سے ٹیکس ریفنڈ 18,000 روپے منظور ہوا ہے۔ وصولی کے لیے اپنے بینک اکاؤنٹ کی تفصیلات اس لنک پر درج کریں: http://fbr-refund.vip",likely_scam,urdu_script,impersonation_threat
+"Muft solar panel scheme: Government ne apko 2 panels free diye hain. Registration ke liye 500 rupay processing fee 0341-6677889 par bhejein.",likely_scam,roman_urdu,advance_fee_aid
+"Your UBL OTP for online transfer is 731482. Valid for 5 minutes. Never share this OTP with anyone, including bank staff.",likely_safe,english,bank_otp_alert
+"Ufone: Apka 200 rupay ka balance recharge kamiyabi se ho gaya. Naya balance: Rs. 213. Shukriya.",likely_safe,roman_urdu,telecom_confirmation
+"آپ کا LESCO بجلی کا بل 2,850 روپے کامیابی سے ادا ہو گیا۔ ادائیگی کا حوالہ نمبر: LES-9948271۔ شکریہ۔",likely_safe,urdu_script,utility_receipt
+"Daraz.pk: Your order #OD-782910 has been dispatched and will arrive by Thursday. Track on the Daraz app.",likely_safe,english,ecommerce_shipping
+"JazzCash: Rs. 3,500 transferred successfully to Hina Baig (0312-3344556). TID: 4490012. New balance: Rs. 1,240.",likely_safe,english,transfer_receipt
+"Ammi, kal university band hai isliye main ghar aa raha hoon shaam ko. Khana bana lena please.",likely_safe,roman_urdu,personal_chat
+"آپ کی State Life Insurance قسط 22,000 روپے موصول ہو گئی۔ رسید نمبر: SL-44812۔ شکریہ۔",likely_safe,urdu_script,insurance_receipt
+"Congratulations, you have been selected for our corporate internship program. Please check your email for the offer letter.",suspicious,english,vague_prize
+"Apke number par suspicious activity report hui hai. Mazeed maloomat ke liye is helpline par call karein: 0322-5566778.",suspicious,roman_urdu,vague_warning
+"آپ کے اکاؤنٹ میں کچھ تکنیکی خرابی آئی ہے۔ تصدیق کے لیے دیے گئے لنک پر کلک کریں۔",suspicious,urdu_script,vague_link
